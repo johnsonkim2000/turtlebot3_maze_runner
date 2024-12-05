@@ -8,7 +8,6 @@ This project uses Q-learning to navigate a TurtleBot3 through a maze to reach a 
 3. [Running the Code](#running-the-code)
 4. [Folder Structure](#folder-structure)
 5. [Results](#results)
-6. [License](#license)
 
 ---
 
