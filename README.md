@@ -1,4 +1,4 @@
 # TurtleBot3 Maze Runner
-THis project attempts to use Q-learning to guide a TUrtleBot3 through a maze in Gazebo.
+This project attempts to use Q-learning to guide a TurtleBot3 through a maze in Gazebo.
 
 # turtlebot3_maze_runner
