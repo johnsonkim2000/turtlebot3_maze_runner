@@ -33,7 +33,7 @@ This project focuses on using a Q-learning algorithm to autonomously navigate a 
 
 ### Setting UP the Workspace
 1. Clone this repository
-  git clone https://github.com/johnsonkim2000/turtlebot3_maze_project.git
+  git clone https://github.com/johnsonkim2000/turtlebot3_maze_runner
   cd turtlebot3_maze_project
 2. Source ROS 2 Setup Files
   source /opt/ros/humble/setup.bash
